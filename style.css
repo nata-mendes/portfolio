@@ -1,0 +1,28 @@
+* {
+  background-color: #373f51;
+  font-family: -apple-system , 'Open Sans', sans-serif;
+}
+
+.home-session {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 40vh;
+  margin-bottom: 700px;
+  color: #D8DBE2;
+}
+
+.home-session-title {
+  font-size: 50px;
+  margin: 0;
+}
+
+.home-session-text {
+  font-size: 125%;
+  margin-top: 10px;
+}
+
+.home-session-image {
+  width: 30%;
+  border: solid #D8DBE2;
+  border-radius: 5%;
+}
