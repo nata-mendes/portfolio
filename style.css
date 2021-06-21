@@ -4,11 +4,14 @@
 }
 
 .home-session {
-  margin-left: 20%;
-  margin-right: 20%;
-  margin-top: 40vh;
-  margin-bottom: 700px;
   color: #D8DBE2;
+}
+
+.home-session-texts {
+  display: inline-block;
+  position: absolute;
+  top: 40%;
+  left: 25%;
 }
 
 .home-session-title {
@@ -16,13 +19,17 @@
   margin: 0;
 }
 
-.home-session-text {
+.home-session-paragraph {
   font-size: 125%;
   margin-top: 10px;
 }
 
-.home-session-image {
-  width: 30%;
+.home-session-photo {
+  width: 20%;
   border: solid #D8DBE2;
   border-radius: 5%;
+  box-shadow: 15px -10px #D8DBE2;
+  position: absolute;
+  top: 30%;
+  right: 30%;
 }
